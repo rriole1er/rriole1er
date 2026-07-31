@@ -20,6 +20,14 @@ Mobile-first Spring Boot app tracking scores and leaderboards for custom dart ga
 
 ---
 
+## MicroEJ (Internship)
+
+| Project | Description | Tech |
+|---|---|---|
+| [**GravityTricks**](https://github.com/rriole1er/GravityTricks) | Connect 4 game built as a MicroEJ application for embedded systems (NXP i.MX RT1170), player vs player and vs bot modes, MVC architecture, runs on simulator and target hardware. | `Java` `MicroEJ` `Gradle` `MicroUI` |
+
+---
+
 ## Featured Projects
 
 ### 🎓 Academic & Research
